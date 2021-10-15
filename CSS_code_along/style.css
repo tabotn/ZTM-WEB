@@ -12,10 +12,21 @@ h2, p {
     border: 5px dashed #801515;
 }
 p {
-    color: pink;
+    color: blue;
+    line-height: 5px;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: 'poiret one', cursive, Georgia, 'Times New Roman', Times, serif;
 }
 
+img {
+    float: right;
+}
 
+footer {
+    clear: both;
+    text-align: center;
+}
 
 li {
     list-style: none;
